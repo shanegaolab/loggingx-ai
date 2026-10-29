@@ -1,0 +1,1 @@
+"""LoggingX AI diagnosis service."""
